@@ -76,7 +76,7 @@ Laravel 11
 ______________________________________________________________
 
 ## 🔗 Backend Setup
-The backend source code is available here in **main* branch  :
+The backend source code is available here in **main** branch  :
 https://github.com/FarahRam04/MEDIX.git
 
 To run the backend project :
